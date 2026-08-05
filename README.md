@@ -26,7 +26,7 @@
 | # | Hackathon | Result | Project |
 |---|---|---|---|
 | 1 | OpenLoop | 🥈 2nd Place | [openloopol08](https://github.com/PrakD3/openloopol08) |
-| 2 | PAETRIX | 🥈 2nd Place | *(no repo — org access lost)* |
+| 2 | PAETRIX | 🥈 2nd Place | *(no repo)* |
 | 3 | VoidHack 2026 (April) | 🥇 Winner | [AFE](https://github.com/Dinaltium/AFE) — Autonomous Finance Engine |
 | 4 | MedhaDrishti National AI Hackathon | 🥉 3rd Place | [MRI Enhancement & Segmentation](https://github.com/Dinaltium/mri-enhancement-segmentation) |
 
