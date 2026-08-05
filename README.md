@@ -115,14 +115,11 @@ Timer utility app.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dinaltium&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinaltium&layout=compact&theme=radical&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinaltium&theme=radical&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dinaltium&theme=radical&no-frame=true&row=1&column=6" />
-
 </div>
+
+> Stats card + trophy widgets skipped — the shared `github-readme-stats`/`github-profile-trophy` public instances are currently rate-limited/paused (503 / 402). Self-host in 2 min via the "Deploy to Vercel" button on [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy), then send me your deployed URLs and I'll drop them back in.
 
 ---
 
