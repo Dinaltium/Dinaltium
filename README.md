@@ -79,7 +79,7 @@ Real-time desktop app that monitors an instructor's screen, generates live step-
   </td>
   <td width="50%">
 
-**[DKB](https://github.com/Dinaltium/DKB)** — BusLink
+**[BusLink](https://github.com/Dinaltium/Buslink)**
 Next.js smart-bus platform for Mangalore–Udupi: route search, fares, QR flows, role-based dashboards.
 🔗 [Live](https://dkb-chi.vercel.app/) · `TypeScript` `Next.js`
 
@@ -95,20 +95,13 @@ TypeScript WhatsApp bot coordinator for DK24/ECB networks — Groq LLM chat, Neo
   </td>
   <td width="50%">
 
-**[PAETRIX-TIMER](https://github.com/Dinaltium/-PAETRIX-TIMER)**
-Timer utility app.
-🔗 [Live](https://paetrix-timer.vercel.app) · `TypeScript`
-
-  </td>
-</tr>
-<tr>
-  <td width="50%">
-
 **[ProtEngine Labs](https://github.com/PrakD3/ProtEngine-Labs)**
 Protein engineering lab toolkit — collaborative project with [@PrakD3](https://github.com/PrakD3).
 🔗 [Live](https://protengine.vercel.app/) · `Python`
 
   </td>
+</tr>
+<tr>
   <td width="50%">
 
 **Portfolio & Lab Distribution Platform**
@@ -116,22 +109,23 @@ CMS-driven developer portfolio + private lab-project distribution system. Next.j
 🔗 [Live](https://rafan.xyz)
 
   </td>
-</tr>
-<tr>
   <td width="50%">
 
-**[VoidHackJune26](https://github.com/Dinaltium/VoidHackJune26)** — Agent Defender
+**Agent Defender** *(private)*
 OpenAI-compatible proxy enforcing action-level policy (tool allowlist, egress control, injection scan, PII redaction) on AI agents. Built for VoidHack June 2026.
 🔗 [Live](https://void-hack-june26.vercel.app) · `Python` `TypeScript`
 
   </td>
+</tr>
+<tr>
   <td width="50%">
 
-**[jumpwhere-assignments](https://github.com/Dinaltium/jumpwhere-assignments)**
-Coursework and notes from the JumpWhere program — search techniques, Git workflows, backend interview prep.
-`Markdown`
+**[MRI Enhancement & Segmentation](https://github.com/Dinaltium/mri-enhancement-segmentation)**
+2D U-Net restoration and tumour segmentation for brain and lumbo-sacral spine MRI — 3rd place, MedhaDrishti National AI Hackathon.
+`Python` `PyTorch`
 
   </td>
+  <td width="50%"></td>
 </tr>
 </table>
 
