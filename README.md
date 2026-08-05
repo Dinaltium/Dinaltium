@@ -15,20 +15,23 @@
 - I'm an engineering student who ships more side projects than sleep would recommend.
 - President of **[Embed Club](https://github.com/Embed-Club)** — the IoT & Embedded Systems community at P.A. College of Engineering (PACE).
 - I build full-stack web apps (mostly TypeScript/Next.js), ship them to Vercel, and move on to the next idea.
-- Currently exploring computer vision / medical imaging — see the hackathon project below.
+- Currently exploring computer vision / medical imaging — see the hackathon wins below.
 - Diving deeper into automation and IoT projects, AI-powered or not.
 - Ask me about: embedded systems, Next.js, WhatsApp automation, or why I have 25+ repos and counting.
 
 ---
 
-### 🏆 Featured: MedhaDrishti National AI Hackathon — 3rd Place
+### 🏆 Hackathon Wins
 
-**[MRI Enhancement & Segmentation](https://github.com/Dinaltium/mri-enhancement-segmentation)** — 2D U-Net based restoration and tumour segmentation for brain and lumbo-sacral spine MRI scans, including annotation-free methods for spine data and honest reporting of what *didn't* work.
+| # | Hackathon | Result | Project |
+|---|---|---|---|
+| 1 | OpenLoop | 🥈 2nd Place | [openloopol08](https://github.com/PrakD3/openloopol08) |
+| 2 | PAETRIX | 🥈 2nd Place | *(no repo — org access lost)* |
+| 3 | VoidHack 2026 (April) | 🥇 Winner | [AFE](https://github.com/Dinaltium/AFE) — Autonomous Finance Engine |
+| 4 | MedhaDrishti National AI Hackathon | 🥉 3rd Place | [MRI Enhancement & Segmentation](https://github.com/Dinaltium/mri-enhancement-segmentation) |
 
 <div align="left">
-<img src="https://img.shields.io/badge/Result-3rd%20Place-F72585?style=for-the-badge&logo=trophy&logoColor=white" />
-<img src="https://img.shields.io/badge/Domain-Medical%20Imaging-8338EC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Model-U--Net-3A86FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hackathons%20Won-4-F72585?style=for-the-badge&logo=trophy&logoColor=white" />
 </div>
 
 ---
