@@ -63,25 +63,25 @@ IoT & Embedded Systems club site for PACE — community hub for student tech pro
   </td>
   <td width="50%">
 
-**[AFE](https://github.com/Dinaltium/AFE)**
-Web application, deployed and live.
-🔗 [Live](https://afe-blond.vercel.app) · `TypeScript`
+**[AFE](https://github.com/Dinaltium/AFE)** — Autonomous Finance Engine
+Agentic AI that auto-splits gig worker income, vets deals, and logs every financial decision transparently.
+🔗 [Live](https://afe-blond.vercel.app) · `TypeScript` `Next.js` `FastAPI`
 
   </td>
 </tr>
 <tr>
   <td width="50%">
 
-**[wkai](https://github.com/Dinaltium/wkai)**
-Web application, deployed and live.
-🔗 [Live](https://wkai.vercel.app) · `TypeScript`
+**[WKAI](https://github.com/Dinaltium/wkai)** — Workshop AI
+Real-time desktop app that monitors an instructor's screen, generates live step-by-step guides for students, and diagnoses errors. Tauri + React + LangGraph.
+🔗 [Live](https://wkai.vercel.app) · `TypeScript` `Rust`
 
   </td>
   <td width="50%">
 
-**[DKB](https://github.com/Dinaltium/DKB)**
-Web application, deployed and live.
-🔗 [Live](https://dkb-chi.vercel.app) · `TypeScript`
+**[DKB](https://github.com/Dinaltium/DKB)** — BusLink
+Next.js smart-bus platform for Mangalore–Udupi: route search, fares, QR flows, role-based dashboards.
+🔗 [Live](https://dkb-chi.vercel.app/) · `TypeScript` `Next.js`
 
   </td>
 </tr>
@@ -89,7 +89,7 @@ Web application, deployed and live.
   <td width="50%">
 
 **[Whatsapp-bot](https://github.com/Dinaltium/Whatsapp-bot)**
-Automation bot for WhatsApp.
+TypeScript WhatsApp bot coordinator for DK24/ECB networks — Groq LLM chat, Neon Postgres sessions, RBAC firewall, multi-bot profiles.
 `TypeScript`
 
   </td>
@@ -101,13 +101,39 @@ Timer utility app.
 
   </td>
 </tr>
+<tr>
+  <td width="50%">
+
+**[ProtEngine Labs](https://github.com/PrakD3/ProtEngine-Labs)**
+Protein engineering lab toolkit — collaborative project with [@PrakD3](https://github.com/PrakD3).
+🔗 [Live](https://protengine.vercel.app/) · `Python`
+
+  </td>
+  <td width="50%">
+
+**Portfolio & Lab Distribution Platform**
+CMS-driven developer portfolio + private lab-project distribution system. Next.js 15, Payload CMS 3, GSAP/WebGL fluid background, `rafan-labs` CLI downloader. *(source private)*
+🔗 [Live](https://rafan.xyz)
+
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+
+**[VoidHackJune26](https://github.com/Dinaltium/VoidHackJune26)** — Agent Defender
+OpenAI-compatible proxy enforcing action-level policy (tool allowlist, egress control, injection scan, PII redaction) on AI agents. Built for VoidHack June 2026.
+🔗 [Live](https://void-hack-june26.vercel.app) · `Python` `TypeScript`
+
+  </td>
+  <td width="50%">
+
+**[jumpwhere-assignments](https://github.com/Dinaltium/jumpwhere-assignments)**
+Coursework and notes from the JumpWhere program — search techniques, Git workflows, backend interview prep.
+`Markdown`
+
+  </td>
+</tr>
 </table>
-
-<div align="center">
-
-*Fill in a one-line description for any repo above (or others like `VoidHackJune26`, `CodonWeb`, `VTU-Captcha`) and I'll slot it in — GitHub repo descriptions were mostly empty so these are inferred from names/topics.*
-
-</div>
 
 ---
 
