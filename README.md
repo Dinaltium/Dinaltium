@@ -13,9 +13,10 @@
 ### About Me
 
 - I'm an engineering student who ships more side projects than sleep would recommend.
-- Core member of **[Embed Club](https://github.com/Embed-Club)** — the IoT & Embedded Systems community at P.A. College of Engineering (PACE).
+- President of **[Embed Club](https://github.com/Embed-Club)** — the IoT & Embedded Systems community at P.A. College of Engineering (PACE).
 - I build full-stack web apps (mostly TypeScript/Next.js), ship them to Vercel, and move on to the next idea.
 - Currently exploring computer vision / medical imaging — see the hackathon project below.
+- Diving deeper into automation and IoT projects, AI-powered or not.
 - Ask me about: embedded systems, Next.js, WhatsApp automation, or why I have 25+ repos and counting.
 
 ---
@@ -104,8 +105,8 @@ Protein engineering lab toolkit — collaborative project with [@PrakD3](https:/
 <tr>
   <td width="50%">
 
-**Portfolio & Lab Distribution Platform**
-CMS-driven developer portfolio + private lab-project distribution system. Next.js 15, Payload CMS 3, GSAP/WebGL fluid background, `rafan-labs` CLI downloader. *(source private)*
+**My Portfolio**
+This is my website — go check it out. Built with Next.js 15, Payload CMS 3, GSAP/WebGL fluid background. *(source private)*
 🔗 [Live](https://rafan.xyz)
 
   </td>
